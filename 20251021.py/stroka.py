@@ -4,3 +4,4 @@ print('1 - 5end=\n')
 
 print(1, 2)
 print(2, 3)
+
